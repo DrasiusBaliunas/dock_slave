@@ -8,7 +8,7 @@
 #endif
 
 // ------ VERSION ------ //
-#define software_version "0.1.0" // major.minor[.build[.revision]]
+#define software_version "0.1.1" // major.minor[.build[.revision]]
 
 // ------ Serial ------ //
 #define SerialDebug Serial
